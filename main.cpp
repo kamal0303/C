@@ -1,8 +1,10 @@
 #include <iostream>
+
 using namespace std;
 
 int main()
 {
-    cout << "Hello World" << endl;
+    cout << "Kamal Kishore" << endl;
+    cout << "Hello All";
     return 0;
 }
