@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    int x = 0;
-    x = 1111;
+    float x = 0.1;
+    x = 11.11;
     cout << x;
 
     return 0;
