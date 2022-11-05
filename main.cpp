@@ -1,10 +1,5 @@
-#include <iostream>
-
-using namespace std;
-
-int main()
+int main(int argc, char const *argv[])
 {
-    cout << "Kamal Kishore" << endl;
-    cout << "Hello All";
+    /* code */
     return 0;
 }
